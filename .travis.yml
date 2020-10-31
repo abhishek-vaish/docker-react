@@ -1,7 +1,7 @@
 sudo: required
 language: node_js
 os:
-    - windows
+    - linux
 services: 
     - docker
 before_install:
