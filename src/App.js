@@ -9,6 +9,7 @@ function App() {
         <p>
             Welcome to Docker with React
         </p>
+        <p>Some new feature is comming soon!!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
